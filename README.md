@@ -18,6 +18,10 @@ The system provides a full-stack solution to automate HR leave workflows, integr
 - BPMN workflows designed with Camunda for leave request approvals
 - Automated email notifications for request status updates
 
+  ✅ Real-Time Communication:
+- Implemented WebSockets (STOMP + SockJS) for live notifications
+- Notifies employees and managers of leave request updates in real time
+
 ✅ **Machine Learning Integration**
 - Predict employee absences and workload surges
 - Detect anomalies in leave requests
